@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MultipleActivity</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Languages">
+        <item>RadioButtons</item>
+        <item>Checkbox</item>
+    </string-array>
+    <string name="Heading">Pagina Con I checkbox</string>
+    <string name="checkBox1">Coding contests</string>
+    <string name="checkBox2_text">Civil Engineering Courses</string>
+    <string name="checkBox1_text">Coding Contests</string>
+    <string name="checkBox3_text">Computer Science Courses</string>
+    <string name="checkBox4_text">Company specific coding questions</string>
+    <string name="checkBox5_text">Download movies</string>
+    <string name="submitButton">SUBMIT</string>
+
+    <string name="Heading2">Pagina con i radiobuttons</string>
+    <string name="RadioButton1">Amazon SDE Test Series</string>
+    <string name="radioButton2">Placement 100</string>
+    <string name="radioButton3">C++ STL</string>
+    <string name="radioButton4">CS Core Subjects</string>
+    <string name="radioButton5">DSA Self paced</string>
+    <string name="submit_Button">Submit</string>
+</resources>
